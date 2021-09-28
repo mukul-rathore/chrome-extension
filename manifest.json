@@ -1,0 +1,13 @@
+{
+    "name" : "Daily Tasks",
+    "version" : "0.0.1",
+    "manifest_version" : 2,
+    "browser_action" : {
+        "default_popup" : "popup.html",
+        "default_icon" : "todo_logo.png"
+    },
+    "icons" : {
+        "128" : "logo.png"
+    },
+    "permissions" : ["activeTab"]
+} 
